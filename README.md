@@ -61,3 +61,4 @@ paginatedUsers : Un store dérivé qui calcule les utilisateurs à afficher en f
 changePage : Une fonction pour changer de page tout en s'assurant que la nouvelle page est valide.
 initializePagination : (Optionnel) Une fonction pour initialiser la pagination, par exemple au montage du composant.
 
+Voir branche ext store
